@@ -4,7 +4,8 @@
   "description": "Play some Tic Tac Toe",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jzizzo/tic-tac-toe-_cli/issues"
   },
-  "homepage": "https://github.com/jzizzo/tic-tac-toe-_cli#readme"
+  "homepage": "https://github.com/jzizzo/tic-tac-toe-_cli#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
 }
