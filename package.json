@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe_cli",
+  "version": "1.0.0",
+  "description": "Play some Tic Tac Toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzizzo/tic-tac-toe-_cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Joseph Zizzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzizzo/tic-tac-toe-_cli/issues"
+  },
+  "homepage": "https://github.com/jzizzo/tic-tac-toe-_cli#readme"
+}
